@@ -7,3 +7,4 @@ eza
 nodejs
 toilet
 glow
+xeyes
