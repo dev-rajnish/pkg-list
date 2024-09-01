@@ -6,3 +6,4 @@ calibre
 eza
 nodejs
 toilet
+glow
