@@ -5,3 +5,4 @@ gparted
 htop
 calibre
 eza
+nodejs
