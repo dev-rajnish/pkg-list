@@ -5,4 +5,3 @@ htop
 calibre
 eza
 nodejs
-xeyes
