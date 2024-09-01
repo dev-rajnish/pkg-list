@@ -1,4 +1,3 @@
-cowsay
 fish
 bat
 gparted
