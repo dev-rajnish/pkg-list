@@ -5,5 +5,4 @@ htop
 calibre
 eza
 nodejs
-toilet
 glow
