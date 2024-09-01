@@ -7,5 +7,3 @@ eza
 nodejs
 toilet
 glow
-xeyes
-cowsay
