@@ -7,3 +7,4 @@ eza
 nodejs
 glow
 cloudflared
+gh
