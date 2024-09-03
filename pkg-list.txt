@@ -10,4 +10,3 @@ cloudflared
 gh
 gh-fish-completion
 rpm-build
-/home/e2b/rpmbuild/RPMS/noarch/rajnish-1.0-1.noarch.rpm
