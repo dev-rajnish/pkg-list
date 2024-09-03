@@ -9,3 +9,4 @@ glow
 cloudflared
 gh
 gh-fish-completion
+rpm-build
