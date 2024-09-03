@@ -8,3 +8,4 @@ nodejs
 glow
 cloudflared
 gh
+gh-fish-completion
