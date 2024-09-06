@@ -24,3 +24,4 @@ broot
 duf
 procs
 ranger
+rustup
