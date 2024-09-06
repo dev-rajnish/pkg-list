@@ -13,3 +13,4 @@ rpm-build
 zoxide
 hello
 fzf
+neovim
