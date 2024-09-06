@@ -12,3 +12,4 @@ gh-fish-completion
 rpm-build
 zoxide
 hello
+fzf
