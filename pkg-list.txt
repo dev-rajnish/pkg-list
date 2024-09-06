@@ -20,7 +20,6 @@ dust
 fd
 lsd
 lazygit
-mcfly
 broot
 duf
 procs
