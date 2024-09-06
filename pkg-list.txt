@@ -18,3 +18,4 @@ yarn
 bat-extras
 dust
 fd
+lsd
