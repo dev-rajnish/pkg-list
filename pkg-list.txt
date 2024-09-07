@@ -25,3 +25,4 @@ duf
 procs
 ranger
 rustup
+feh
