@@ -31,3 +31,4 @@ freeze
 ttyd
 libwebsockets19
 android-tools
+scrcpy
