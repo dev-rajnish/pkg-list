@@ -26,3 +26,5 @@ procs
 ranger
 rustup
 feh
+vhs
+freeze
