@@ -28,3 +28,4 @@ rustup
 feh
 vhs
 freeze
+ttyd
