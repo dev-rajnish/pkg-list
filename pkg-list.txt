@@ -38,3 +38,4 @@ youtube-music-desktop-app-2.0.5-1.x86_64.rpm
 tmux
 cmatrix
 youtube-music-3.5.2.x86_64.rpm
+dmenu
