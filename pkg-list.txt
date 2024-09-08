@@ -36,3 +36,4 @@ libavdevice61
 ytermusic
 youtube-music-desktop-app-2.0.5-1.x86_64.rpm
 tmux
+cmatrix
