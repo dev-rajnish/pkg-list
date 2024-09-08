@@ -33,3 +33,4 @@ libwebsockets19
 android-tools
 scrcpy
 libavdevice61
+ytermusic
