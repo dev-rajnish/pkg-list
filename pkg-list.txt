@@ -41,3 +41,4 @@ youtube-music-3.5.2.x86_64.rpm
 dmenu
 i3-gaps
 xev
+xclip
