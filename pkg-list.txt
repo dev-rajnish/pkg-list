@@ -42,3 +42,4 @@ dmenu
 i3-gaps
 xev
 xclip
+ImageMagick
