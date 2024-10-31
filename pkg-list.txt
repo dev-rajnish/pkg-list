@@ -45,3 +45,4 @@ xclip
 ImageMagick
 xinput
 sway
+xkeyboard-config
