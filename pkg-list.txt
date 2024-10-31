@@ -46,3 +46,4 @@ ImageMagick
 xinput
 sway
 xkeyboard-config
+swaybg
