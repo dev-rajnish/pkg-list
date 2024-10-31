@@ -47,3 +47,4 @@ xinput
 sway
 xkeyboard-config
 swaybg
+wezterm
